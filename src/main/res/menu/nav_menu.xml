@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:title="World"
+        android:id="@+id/world_id"/>
+
+    <item
+        android:title="Sports"
+        android:id="@+id/sports_id"/>
+
+</menu>
